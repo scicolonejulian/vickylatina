@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/www.vickylatina.com/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/www.vickylatina.com/static/js/main.dafda75d.chunk.js",
-    "main.js.map": "/www.vickylatina.com/static/js/main.dafda75d.chunk.js.map",
-    "runtime-main.js": "/www.vickylatina.com/static/js/runtime-main.467a2b6f.js",
-    "runtime-main.js.map": "/www.vickylatina.com/static/js/runtime-main.467a2b6f.js.map",
-    "static/js/2.fdcb651e.chunk.js": "/www.vickylatina.com/static/js/2.fdcb651e.chunk.js",
-    "static/js/2.fdcb651e.chunk.js.map": "/www.vickylatina.com/static/js/2.fdcb651e.chunk.js.map",
-    "static/js/3.21cb66db.chunk.js": "/www.vickylatina.com/static/js/3.21cb66db.chunk.js",
-    "static/js/3.21cb66db.chunk.js.map": "/www.vickylatina.com/static/js/3.21cb66db.chunk.js.map",
-    "index.html": "/www.vickylatina.com/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/www.vickylatina.com/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.fdcb651e.chunk.js.LICENSE.txt": "/www.vickylatina.com/static/js/2.fdcb651e.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/www.vickylatina.com/static/media/logo.6ce24c58.svg"
+    "main.css": "/vickylatina/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/vickylatina/static/js/main.30823488.chunk.js",
+    "main.js.map": "/vickylatina/static/js/main.30823488.chunk.js.map",
+    "runtime-main.js": "/vickylatina/static/js/runtime-main.a46d0c5d.js",
+    "runtime-main.js.map": "/vickylatina/static/js/runtime-main.a46d0c5d.js.map",
+    "static/js/2.5d3f18b9.chunk.js": "/vickylatina/static/js/2.5d3f18b9.chunk.js",
+    "static/js/2.5d3f18b9.chunk.js.map": "/vickylatina/static/js/2.5d3f18b9.chunk.js.map",
+    "static/js/3.21cb66db.chunk.js": "/vickylatina/static/js/3.21cb66db.chunk.js",
+    "static/js/3.21cb66db.chunk.js.map": "/vickylatina/static/js/3.21cb66db.chunk.js.map",
+    "index.html": "/vickylatina/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/vickylatina/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.5d3f18b9.chunk.js.LICENSE.txt": "/vickylatina/static/js/2.5d3f18b9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.467a2b6f.js",
-    "static/js/2.fdcb651e.chunk.js",
+    "static/js/runtime-main.a46d0c5d.js",
+    "static/js/2.5d3f18b9.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.dafda75d.chunk.js"
+    "static/js/main.30823488.chunk.js"
   ]
 }
