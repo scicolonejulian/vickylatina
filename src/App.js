@@ -5,6 +5,8 @@ function App() {
     <div className="App">
       <h1>VICKY-LATINA.COM</h1>
       <h1>soy trola</h1>
+      <h1>soy trola2</h1>
+
     </div>
   );
 }
