@@ -7,6 +7,8 @@ function App() {
       <h1>soy trola</h1>
       <h1>soy trola2</h1>
       <h1>soy trola3</h1>
+      <h1>soy trola4</h1>
+
 
     </div>
   );
